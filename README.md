@@ -11,11 +11,11 @@ These are overviews of the artifacts we have produced, organised by sprint and a
 
 2. [Tools and Services](#tools-and-services)
 
-3. [Milestones](#semester-2-milestones)
+3. [Milestones](#milestones)
 
-4. [Project Schedule](#semester-2-project-schedule)
+4. [Project Schedule](#project-schedule)
 
-5. [Process Changes](#semester-2-process-changes)
+5. [Process Changes](#process-changes)
 
 6. [Client's Vision](#clients-vision)
 
