@@ -35,3 +35,27 @@ These are overviews of the artifacts we have produced, organised by sprint and a
 
 
 ## [Team Members](Documentation/Sprint_1/PDF/Team_Members.pdf)
+
+## [Tools and Services]
+
+## [Milestones]
+
+## [Project Schedule]
+
+## [Process Changes]
+
+## [Client's Vision]
+
+## [Key Stakeholders]
+
+## [Client and Stakeholder Expectations]
+
+## [Project Impact]
+
+## [Technical and Other Constraints]
+
+## [Resources, Risks and Potential Costs]
+
+## [NDA and IP Concerns]
+
+## [References]
