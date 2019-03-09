@@ -34,7 +34,7 @@ These are overviews of the artifacts we have produced, organised by sprint and a
 13. [References](#references)
 
 
-## [Team Members](Documentation/Sprint_1/PDF/Team_Members.pdf)
+## [Team Members](Documentation/)
 
 ## [Tools and Services]
 
