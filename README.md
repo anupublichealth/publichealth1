@@ -50,8 +50,14 @@ The client's vision is a fun multi-player mobile game about public health. The c
 ## [Key Stakeholders]
 
 ## [Client and Stakeholder Expectations]
+The client expects to have a multi-player mobile game, in which players act as a Health Minister and make decision to increase the health level of the public. The game should help the public get familiar with multiple health policies and understand the complexity of this kind of decision making. Further, the public would have more confidences in some policies the governments are shy of trying as a result of playing the game. Also the game should not be like a boring teaching presentation, but interactive and interesting enough so that players are willing to share their experience to others. 
+
+Besides, the options of players should be record and demonstrated to the real-world decision maker in a proper way to help them make decision.
 
 ## [Project Impact]
+This project will help the public have a better understanding of the content of health polices and the health and economic impact they have. As a result, they will be more confident in the policies that are currently adapted. Besides, the public will know how multiple factors influence the decision making, and we will understand the effort the governments have made for a good decision. When the public trust in their governments, the governments can also do more things than before. The governments will be more brave to try some new policies and the implementation of those policies will be easier as the public have know them well. 
+
+Besides, this project will help the real-world decision know the public preferences for health policies better. This reduces the gap between decision maker and the public, so that more beneficial policies can be come up.
 
 ## [Technical and Other Constraints]
 
