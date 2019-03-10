@@ -186,6 +186,7 @@ With that said, we should learn from developers who constantly engage with their
 
 ## NDA and IP Concerns
 A non-disclosure agreement is not necessary at this point in time.<br/>
+
 Any materials, tools, methods/techniques and services provided by client 
 and/or advised and agreed to be client Copyright, will remain the intellectual
 property of client.
