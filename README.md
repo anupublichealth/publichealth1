@@ -166,7 +166,7 @@ Besides, this project will help the real-world decision know the public preferen
 
 ## Technical and Other Constraints
 
-Team only has few experience and knowledge on game development especially the 3D game development, and team currently cannot predict the complexity of the project. Lack of technical knowledge could cause project delays, so we have to do more research and training to make sure everyone could handle the complexity of the project and could keep up with the project developing process.
+Lack of experience and knowledge on game development in general. 3D development would introduce further complexities that the team (as of now) might not be able to handle, which may bring delays to our deliverables. Thus, 2D development is currently the preferred choice. Nevertheless, development in 3D could be a research topic for us to look into provided that we have the time for it. If at some point we might find 3D do-able, we might consider it as an eventual system upgrade/overhaul further down the road.
 
 Frequent collaboration and communication are needed between two project teams, and the complicated communication between two teams could cause mixups in passing information as there are many people involved. The team have to pay extra attention to make sure the information is correctly delivered between two teams as well as within our team, so that everyone could get the information about what they need timely and correctly, and could work on the right track even if a sudden change were to happen.
 
