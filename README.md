@@ -60,8 +60,54 @@ Improve game performance.<br/>
 Set up final version of development.<br/>
 Prepare presentation.
 
-## [Project Schedule](Documentation/)
+## [Project Schedule]
+**1. Understanding Requirements(1 week)**<br/>
+<ul>
+  <li>Communicate with the clients and read the project introduction page to get a general impression of the project</li>
+  <li>Discuss through group meeting</li>
+  <li>Ask questions that we are confused and get a clear understanding of requirements</li>
+</ul>
 
+**2. Setup(3 days)**<br/>
+<ul>
+  <li>Set up Github repository and add all the team members as colleborators</li>
+  <li>Set up communication tools such as slack and trello</li>
+  <li>Set up documentation share tools such as Google Drive</li>
+  <li>Determine the leaders and roles</li>
+  <li>Arrange meeting time</li>
+</ul>
+
+**3. Requirement Analysis(1 week)**<br/>
+<ul>
+  <li>Analyse the time and cost of clients's requirements</li>
+  <li>Determine what platform, programming languages and tools we should use</li>
+</ul>
+
+**4. Design(2 weeks)**<br/>
+<ul>
+  <li>Do some research on health policies</li>
+  <li>Refer to games that are similar to our game</li>
+  <li>Design rules of the game and how to play</li>
+  <li>Design the overall framework of the game</li>
+  <li>Basic user interface(UI) design</li>
+</ul>
+
+**5. Coding(4 weeks)**<br/>
+<ul>
+  <li>Build objects</li>
+  <li>Link the game data to the DSMs provided</li>
+  <li>Build database to record players' data</li>
+  <li>UI coding</li>
+</ul>
+
+**6. Testing(2 weeks)**<br/>
+<ul>
+  <li>Unit testing</li>
+  <li>Integration testing</li>
+  <li>System testing</li>
+</ul>
+
+**7. Deployment(2 weeks)**
 ## [Process Changes]
 
 ## [Client's Vision]
