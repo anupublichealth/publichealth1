@@ -37,16 +37,21 @@ These are overviews of the artifacts we have produced, organised by sprint and a
 ## [Team Members](Documentation/)
 
 ## [Tools and Services]
+**Team communications:** we use Slack for chatting. Slack is supper good community platform, it can easily organize our group and we can create different channel for specific job. Link is:  https://anupublichealth1.slack.com 
+
+**Task management:** we use Trello for arranging tasks. We can list all the tasks on Trello board, all of our members can see all the tasks clearly. Link is: https://trello.com/b/sq2c54ek/tasks
+
+**Project repository:** we use GitHub. Link is: https://github.com/anupublichealth/publichealth1
 
 ## [Milestones]
-Milestone 1: Game Prototype<br/>
+**Milestone 1: Game Prototype**<br/>
 Sprint 1 (Week 3 - Week 4)<br/>
 Look at example games, understand goal.<br/>
 Understand client's requirement.<br/> 
 Design suitable game UI.<br/>
 Sprint 2 (Week 5 - Week 6)<br/>
 Start development for basic game part.<br/><br/>
-Milestone 2: Game Improvement<br/>
+**Milestone 2: Game Improvement**<br/>
 Sprint 3 (Week 7 - Week 8)<br/>
 Build connection between mobile and server<br/>
 Add additional functions like adviser.<br/>
