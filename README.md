@@ -108,7 +108,7 @@ The client's vision is a fun multi-player mobile game about public health. The c
   <li>Discuss through group meeting.</li>
   <li>Actively engage in conversations with stakeholders to get a clear understanding of requirements.</li>
 </ul>
-*: Time estimate is not specified as client requirements may change (and often will change) throughout the lifecycle of the project.<br/>
+* Time estimate is not specified as client requirements may change (and often will change) throughout the lifecycle of the project.<br/>
 
 **2. Setup(Sprint 0)**<br/>
 <ul>
@@ -172,10 +172,11 @@ Furthermore, frequent collaboration and communication are needed between two pro
 
 ## Resources, Risks and Potential Costs
 
-**Potential Costs of Deployment**
+**Potential Costs of Deployment:**<br/>
 We have plans to investigate options for a suitable deployment platform for our game. At this stage, we will look into services that offer free trials to allow us to get a better picture of what we really need for our game further down the road. True costs of deploying the game will be revealed after deciding on a suitable platform. Since this involves funding, this process is placed onto the research backlog as we would have to further discuss with our client for potential funding opportunities.
 
-**Risk:** Game development requires careful management and an active feedback loop.
+**Risk:** <br/>
+Game development requires careful management and an active feedback loop.
 Looking at recent failures of AAA video game studios, most notably F76^ and Ant^^, it is clear that even large corporations are prone to catastrophic failures, especially since they neglected testing their product prior to releasing to the public.
 
 ^ F76 was an unpolished, unrefined product release that relied on its customers to be Day 1 testers.
