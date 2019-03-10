@@ -179,7 +179,7 @@ We have plans to investigate options for a suitable deployment platform for our 
 Game development requires careful management and an active feedback loop.
 Looking at recent failures of AAA video game studios, most notably F76* and Ant**, it is clear that even large corporations are prone to catastrophic failures, especially since they neglected testing their product prior to releasing to the public.
 
-<nowiki>*</nowiki> F76 was an unpolished, unrefined product release that relied on its customers to be Day 1 testers.
+<nowiki>*</nowiki> F76 was an unpolished, unrefined product release that relied on its customers to be Day 1 testers. </br>
 <nowiki>**</nowiki> Ant was a game developed over 5 years that brought false promises and game-breaking bugs on release. Similar to F76, it was released at an unpolished state, leaving its users dissatisfied.
 
 With that said, we should learn from developers who constantly engage with their users and the community. The active feedback loop helps tremendously especially in feature additions, QoL improvements and bug fixing. Their developers have a public Trello board at: https://trello.com/b/yxoJrFgP/subnautica-development. It can be said that their engagement with the community inspired us to do the same, though at a significantly smaller scale.
