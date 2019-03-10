@@ -193,13 +193,3 @@ Available at: https://itunes.apple.com/sg/app/peak-oil-101/id1088199106
 
 Centers for Disease Control and Prevention, 2008. Get in the Game to Redirect the U.S. Health System. [Online]<br/>
 Available at: https://www2.cdc.gov/syndemics/game.htm
-
-## Process Changes
->**Sprint 1** (Week 3 - Week 4)<br />
-- process changes in Sprint 1 (put content here later)<br />
-
->**Sprint 2** (Week 5 - Week 6)<br />
-
->**Sprint 3** (Week 7 - Week 8)<br />
-
->**Sprint 4** (Week 9 - Week 10)<br />
