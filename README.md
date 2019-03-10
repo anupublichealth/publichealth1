@@ -51,10 +51,17 @@ The client's vision is a fun multi-player mobile game about public health. The c
 Project Clients:
 The Australian Prevention Partnership Centre (TAPPC, https://preventioncentre.org.au): 
 
+![](Images/image1.png)
+
 National Centre for the Public Awareness of Science (CPAS. https://cpas.anu.edu.au):
+
+
+![](Images/image2.png)
 
 Project Team:
 19-S1-2-C Public Health 1 of TechLauncher
+
+![](Images/image3.png)
 
 
 ## [Client and Stakeholder Expectations]
