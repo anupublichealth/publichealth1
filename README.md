@@ -104,8 +104,8 @@ Preparation for post-deployment testing.
   <li>Communicate with the clients and read the project introduction page to get a general impression of the project.</li>
   <li>Discuss through group meeting.</li>
   <li>Actively engage in conversations with stakeholders to get a clear understanding of requirements.</li>
-  <li>*: Time estimate is not specified as client requirements may change (and often will change) throughout the lifecycle of the project.</li>
 </ul>
+*: Time estimate is not specified as client requirements may change (and often will change) throughout the lifecycle of the project.<br/>
 
 **2. Setup(Sprint 0)**<br/>
 <ul>
