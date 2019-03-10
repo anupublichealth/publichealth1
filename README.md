@@ -63,21 +63,30 @@ Project Team:<br/>
 The client's vision is a fun multi-player mobile game about public health. The clients' objective for this game is to help players participate in and appreciate the health policy development. Players will act as an official who is responsible to public health. They will select, adapt and schedule policies and programs aiming to minimise the amount of disease and/or the inequitable distribution across the population. This game will simulate all the situations(like how health and economic outcomes change over time) due to different sequence of policy initiatives by the player. The clients also want the players to share their experiences with this game. All Above is our understanding of the client's vision. The client's vision is just a framework at this point. We will get into details by discussing with the clients next week.
 
 ## [Milestones]
-**Milestone 1: Game Prototype**<br/>
+**Milestone 1: Proof-of-Concept Prototyping**<br/>
+Sprint 0 (Week 2 Kick-off)<br/>
+Gather preliminary requirements and initialize project with proposed tools and services.<br/>
 Sprint 1 (Week 3 - Week 4)<br/>
-Look at example games, understand goal.<br/>
-Understand client's requirement.<br/> 
-Design suitable game UI.<br/>
+Research into games of similar genre to propose a clear idea of the project's direction.<br/>
+Research into the project's design (art, sound, story, technical, storyboard, etc.).<br/>
+UX/UI prototyping.<br/>
+Game prototyping.<br/>
+Preparation for user testing.<br/>
 Sprint 2 (Week 5 - Week 6)<br/>
-Start development for basic game part.<br/><br/>
-**Milestone 2: Game Improvement**<br/>
-Sprint 3 (Week 7 - Week 8)<br/>
+Review feedback and make changes to existing prototypes.<br/>
+Preparation for user testing (again).<br/>
+Sprint 3 (Teaching Break)<br/>
+Review feedback from second stage of testing, making appropriate changes.<br/>
+From prototyping to materialization of the proof-of-concept.<br/>
+
+**Milestone 2: QoL improvement and Deployment**<br/>
+Sprint 4 (Week 7 - Week 8)<br/>
 Build connection between mobile and server<br/>
-Add additional functions like adviser.<br/>
-Sprint 4 (Week 9 - Week 10)<br/>
-Improve game performance.<br/>
-Set up final version of development.<br/>
-Prepare presentation.
+Feature additions (backlog).<br/>
+Sprint 5 (Week 9 - Week 10)<br/>
+Performance enhancements and stability improvements.<br/>
+Eventual deployment of service.<br/>
+Preparation for post-deployment testing.
 
 ## [Project Schedule]
 **1. Understanding Requirements(1 week)**<br/>
