@@ -1,9 +1,9 @@
 # Health Minister for a Day
-A Multi-Player Mobile Game for Reducing Preventable Chronic Disease.
+A Multi-Player Mobile Game for Reducing Preventable Chronic Disease.<br/>
 
 #### [Project Progress](Documentation/Semester_1/overview.md)
 
-Overview of artifacts to be produced over the semester, organised by audits and sprints. They contain easy access to our outputs, documentation, and meeting notes. 
+Overview of artifacts to be produced over the semester, organised by audits and sprints. They contain easy access to our outputs, documentation, and meeting notes.<br/>
 
 ## Table of Contents
 
@@ -176,11 +176,11 @@ Furthermore, frequent collaboration and communication are needed between two pro
 We have plans to investigate options for a suitable deployment platform for our game. At this stage, we will look into services that offer free trials to allow us to get a better picture of what we really need for our game further down the road. True costs of deploying the game will be revealed after deciding on a suitable platform. Since this involves funding, this process is placed onto the research backlog as we would have to further discuss with our client for potential funding opportunities.
 
 **Risk:** <br/>
-Game development requires careful management and an active feedback loop.
-Looking at recent failures of AAA video game studios, most notably * and Ant, it is clear that even large corporations are prone to catastrophic failures, especially since they neglected testing their product prior to releasing to the public.
+Game development requires careful management and an active feedback loop.<br/>
+Looking at recent failures of AAA video game studios, most notably * and Ant, it is clear that even large corporations are prone to catastrophic failures, especially since they neglected testing their product prior to releasing to the public.<br/>
 
-<nowiki>*</nowiki>  was an unpolished, unrefined product release that relied on its customers to be Day 1 testers.
-Ant was a game developed over 5 years that brought false promises and game-breaking bugs on release. Similar to F76, it was released at an unpolished state, leaving its users dissatisfied.
+<nowiki>*</nowiki>  was an unpolished, unrefined product release that relied on its customers to be Day 1 testers.<br/>
+Ant was a game developed over 5 years that brought false promises and game-breaking bugs on release. Similar to F76, it was released at an unpolished state, leaving its users dissatisfied.<br/>
 
 With that said, we should learn from developers who constantly engage with their users and the community. The active feedback loop helps tremendously especially in feature additions, QoL improvements and bug fixing. Their developers have a public Trello board at: https://trello.com/b/yxoJrFgP/subnautica-development. It can be said that their engagement with the community inspired us to do the same, though at a significantly smaller scale.
 
