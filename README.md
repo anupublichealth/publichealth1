@@ -15,33 +15,31 @@ These are overviews of the artifacts we have produced, organised by sprint and a
 
 4. [Project Schedule](#project-schedule)
 
-5. [Process Changes](#process-changes)
+5. [Client's Vision](#clients-vision)
 
-6. [Client's Vision](#clients-vision)
+6. [Key Stakeholders](#key-stakeholders)
 
-7. [Key Stakeholders](#key-stakeholders)
+7. [Client and Stakeholder Expectations](#client-and-stakeholder-expectations)
 
-8. [Client and Stakeholder Expectations](#client-and-stakeholder-expectations)
+8. [Project Impact](#project-impact)
 
-9. [Project Impact](#project-impact)
+9. [Technical and Other Constraints](#technical-and-other-constraints)
 
-10. [Technical and Other Constraints](#technical-and-other-constraints)
+10. [Resources, Risks and Potential Costs](#resources-risks-and-potential-costs)
 
-11. [Resources, Risks and Potential Costs](#resources-risks-and-potential-costs)
+11. [NDA and IP Concerns](#nda-and-ip-concerns)
 
-12. [NDA and IP Concerns](#nda-and-ip-concerns)
-
-13. [References](#references)
+12. [References](#references)
 
 
 ## [Team Members](Documentation/)
 
 ## [Tools and Services]
-**Team communications:** we use Slack for chatting. Slack is supper good community platform, it can easily organize our group and we can create different channel for specific job. Link is:  https://anupublichealth1.slack.com 
+**Team communications:** Slack as main communication channel. Easily accessible by our team, stakeholders and our shadow team. Available at: https://anupublichealth1.slack.com 
 
-**Task management:** we use Trello for arranging tasks. We can list all the tasks on Trello board, all of our members can see all the tasks clearly. Link is: https://trello.com/b/sq2c54ek/tasks
+**Task management:** Trello "Tasks" board is visibile to everyone. Available at: https://trello.com/b/sq2c54ek/tasks
 
-**Project repository:** we use GitHub. Link is: https://github.com/anupublichealth/publichealth1
+**Project repository:** GitHub repository is available at: https://github.com/anupublichealth/publichealth1
 
 ## [Milestones]
 **Milestone 1: Game Prototype**<br/>
