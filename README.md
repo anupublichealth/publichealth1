@@ -67,39 +67,39 @@ The client's vision is a fun multi-player mobile game about public health. The c
 
 ## Milestones
 **Milestone 1: Proof-of-Concept Prototyping**<br/>
-**Sprint 0 (Week 2 Kick-off)**<br/>
-Gather preliminary requirements and initialize project with proposed tools and services.<br/>
+>**Sprint 0 (Week 2 Kick-off)**<br/>
+- Gather preliminary requirements and initialize project with proposed tools and services.<br/>
 
-**Sprint 1 (Week 3 - Week 4)**<br/>
-Research into games of similar genre to propose a clear idea of the project's direction.<br/>
-Research into the project's design (art, sound, story, technical, storyboard, etc.).<br/>
+>**Sprint 1 (Week 3 - Week 4)**<br/>
+- Research into games of similar genre to propose a clear idea of the project's direction.<br/>
+- Research into the project's design (art, sound, story, technical, storyboard, etc.).<br/>
 
-Begin:
-UX/UI prototyping.<br/>
-Game prototyping.<br/>
-Preparation for user testing.<br/>
+  Begin:<br/>
+  - UX/UI prototyping.<br/>
+  - Game prototyping.<br/>
+  - Preparation for user testing.<br/>
 
-**Sprint 2 (Week 5 - Week 6)**<br/>
-Review feedback and make changes to existing prototypes.<br/>
+>**Sprint 2 (Week 5 - Week 6)**<br/>
+- Review feedback and make changes to existing prototypes.<br/>
 
-Continued:
-UX/UI prototyping.<br/>
-Game prototyping.<br/>
-User testing (again).<br/>
+  Continued:<br/>
+  - UX/UI prototyping.<br/>
+  - Game prototyping.<br/>
+  - User testing (again).<br/>
 
-**Sprint 3 (Teaching Break)**<br/>
-Review feedback from second stage of testing, making appropriate changes.<br/>
-From prototyping to materialization of the proof-of-concept.<br/>
+>**Sprint 3 (Teaching Break)**<br/>
+- Review feedback from second stage of testing, making appropriate changes.<br/>
+- From prototyping to materialization of the proof-of-concept.<br/>
 
 **Milestone 2: QoL improvement and Deployment**<br/>
-**Sprint 4 (Week 7 - Week 8)**<br/>
-Build connection between mobile and server<br/>
-Feature additions (backlog).<br/>
+>**Sprint 4 (Week 7 - Week 8)**<br/>
+- Build connection between mobile and server<br/>
+- Feature additions (backlog).<br/>
 
-**Sprint 5 (Week 9 - Week 10)**<br/>
-Performance enhancements and stability improvements.<br/>
-Eventual deployment of service.<br/>
-Preparation for post-deployment testing.
+>**Sprint 5 (Week 9 - Week 10)**<br/>
+- Performance enhancements and stability improvements.<br/>
+- Eventual deployment of service.<br/>
+- Preparation for post-deployment testing.<br/>
 
 ## Project Schedule
 **1. Understanding Requirements(Sprint 1 - 5)**<br/>
@@ -166,9 +166,9 @@ Besides, this project will help the real-world decision know the public preferen
 
 ## Technical and Other Constraints
 
-- Team only has few experience and knowledge on game development especially the 3D game development, and team currently cannot predict the complexity of the project. Lack of technical knowledge could cause project delays, so we have to do more research and training to make sure everyone could handle the complexity of the project and could keep up with the project developing process.
+Team only has few experience and knowledge on game development especially the 3D game development, and team currently cannot predict the complexity of the project. Lack of technical knowledge could cause project delays, so we have to do more research and training to make sure everyone could handle the complexity of the project and could keep up with the project developing process.
 
-- Frequent collaboration and communication are needed between two project teams, and the complicated communication between two teams could cause mixups in passing information as there are many people involved. The team have to pay extra attention to make sure the information is correctly delivered between two teams as well as within our team, so that everyone could get the information about what they need timely and correctly, and could work on the right track even if a sudden change were to happen.
+Frequent collaboration and communication are needed between two project teams, and the complicated communication between two teams could cause mixups in passing information as there are many people involved. The team have to pay extra attention to make sure the information is correctly delivered between two teams as well as within our team, so that everyone could get the information about what they need timely and correctly, and could work on the right track even if a sudden change were to happen.
 
 ## Resources, Risks and Potential Costs
 
