@@ -165,6 +165,17 @@ Besides, this project will help the real-world decision know the public preferen
 
 ## Resources, Risks and Potential Costs
 
+**Potential Costs of Deployment**
+We have plans to investigate options for a suitable deployment platform for our game. At this stage, we will look into services that offer free trials to allow us to get a better picture of what we really need for our game further down the road. True costs of deploying the game will be revealed after deciding on a suitable platform. Since this involves funding, this process is placed onto the research backlog as we would have to further discuss with our client for potential funding opportunities.
+
+**Risk:** Game development requires careful management and an active feedback loop.
+Looking at recent failures of AAA video game studios, most notably Fallout76^ and Anthem^^, it is clear that even large corporations are prone to catastrophic failures, especially since they neglected testing their product prior to releasing to the public.
+
+^ Fallout76 was an unpolished, unrefined product release that relied on its customers to be Day 1 testers.
+^^ Anthem was a game developed over 5 years that brought false promises and game-breaking bugs on release. Similar to Fallout76, it was released at an unpolished state, milking customers' money as they please.
+
+With that said, we should learn from developers who constantly engage with their users and the community. The active feedback loop helps tremendously especially in feature additions, QoL improvements and bug fixing. Their developers have a public Trello board at: https://trello.com/b/yxoJrFgP/subnautica-development. It can be said that their engagement with the community inspired us to do the same, though at a significantly smaller scale.
+
 ## NDA and IP Concerns
 A non-disclosure agreement is not necessary at this point in time.<br/>
 Any materials, tools, methods/techniques and services provided by client 
