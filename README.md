@@ -114,7 +114,7 @@ Prepare presentation.
 The client's vision is a fun multi-player mobile game about public health. The clients' objective for this game is to help players participate in and appreciate the health policy development. Players will act as an official who is responsible to public health. They will select, adapt and schedule policies and programs aiming to minimise the amount of disease and/or the inequitable distribution across the population. This game will simulate all the situations(like how health and economic outcomes change over time) due to different sequence of policy initiatives by the player. The clients also want the players to share their experiences with this game. All Above is our understanding of the client's vision. The client's vision is just a framework at this point. We will get into details by discussing with the clients next week.
 
 ## [Key Stakeholders]
-Project Clients:
+Project Clients:<br/>
 The Australian Prevention Partnership Centre (TAPPC, https://preventioncentre.org.au): 
 
 ![](Images/The%20Australian%20Prevention%20Partnership%20Centre%20header_logo.png)
