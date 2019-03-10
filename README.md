@@ -35,8 +35,8 @@ Overview of artifacts to be produced over the semester, organised by audits and 
 
 
 ## [Team Members](Documentation/)
-<div>
-<img src="/Images/TeamMembers.png" width="400" align="Center">
+<div align="center">
+<img src="/Images/TeamMembers.png" width="420" align="center"/>
 </div>
 
 ## Tools and Services
