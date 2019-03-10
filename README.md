@@ -36,14 +36,14 @@ These are overviews of the artifacts we have produced, organised by sprint and a
 
 ## [Team Members](Documentation/)
 
-## [Tools and Services]
+## Tools and Services
 **Team communications:** Slack as main communication channel. Easily accessible by our team, stakeholders and our shadow team. Available at: https://anupublichealth1.slack.com 
 
 **Task management:** Trello "Tasks" board is visibile to everyone. Available at: https://trello.com/b/sq2c54ek/tasks
 
 **Project repository:** GitHub repository is available at: https://github.com/anupublichealth/publichealth1
 
-## [Key Stakeholders]
+## Key Stakeholders
 Project Clients:<br/>
 The Australian Prevention Partnership Centre (TAPPC, https://preventioncentre.org.au): 
 
@@ -59,10 +59,10 @@ Project Team:<br/>
 
 ![](Images/TechLauncher.png)
 
-## [Client's Vision]
+## Client's Vision
 The client's vision is a fun multi-player mobile game about public health. The clients' objective for this game is to help players participate in and appreciate the health policy development. Players will act as an official who is responsible to public health. They will select, adapt and schedule policies and programs aiming to minimise the amount of disease and/or the inequitable distribution across the population. This game will simulate all the situations(like how health and economic outcomes change over time) due to different sequence of policy initiatives by the player. The clients also want the players to share their experiences with this game. All Above is our understanding of the client's vision. The client's vision is just a framework at this point. We will get into details by discussing with the clients next week.
 
-## [Milestones]
+## Milestones
 **Milestone 1: Proof-of-Concept Prototyping**<br/>
 **Sprint 0 (Week 2 Kick-off)**<br/>
 Gather preliminary requirements and initialize project with proposed tools and services.<br/>
@@ -98,7 +98,7 @@ Performance enhancements and stability improvements.<br/>
 Eventual deployment of service.<br/>
 Preparation for post-deployment testing.
 
-## [Project Schedule]
+## Project Schedule
 **1. Understanding Requirements(Sprint 1 - 5)**<br/>
 <ul>
   <li>Communicate with the clients and read the project introduction page to get a general impression of the project.</li>
@@ -151,27 +151,27 @@ Preparation for post-deployment testing.
   <li> TBD.</li>
 </ul>
 
-## [Client and Stakeholder Expectations]
+## Client and Stakeholder Expectations
 The client expects to have a multi-player mobile game, in which players act as a Health Minister and make decision to increase the health level of the public. The game should help the public get familiar with multiple health policies and understand the complexity of this kind of decision making. Further, the public would have more confidences in some policies the governments are shy of trying as a result of playing the game. Also the game should not be like a boring teaching presentation, but interactive and interesting enough so that players are willing to share their experience to others. 
 
 Besides, the options of players should be record and demonstrated to the real-world decision maker in a proper way to help them make decision.
 
-## [Project Impact]
+## Project Impact
 This project will help the public have a better understanding of the content of health polices and the health and economic impact they have. As a result, they will be more confident in the policies that are currently adapted. Besides, the public will know how multiple factors influence the decision making, and we will understand the effort the governments have made for a good decision. When the public trust in their governments, the governments can also do more things than before. The governments will be more brave to try some new policies and the implementation of those policies will be easier as the public have know them well. 
 
 Besides, this project will help the real-world decision know the public preferences for health policies better. This reduces the gap between decision maker and the public, so that more beneficial policies can be come up.
 
-## [Technical and Other Constraints]
+## Technical and Other Constraints
 
-## [Resources, Risks and Potential Costs]
+## Resources, Risks and Potential Costs
 
-## [NDA and IP Concerns]
+## NDA and IP Concerns
 A non-disclosure agreement is not necessary at this point in time.<br/>
 Any materials, tools, methods/techniques and services provided by client 
 and/or advised and agreed to be client Copyright, will remain the intellectual
 property of client.
 
-## [References]
+## References
 Bobby, M., Jack, H. & Gary, H., 2009. The “HealthBound” Policy Simulation Game: An Adventure in US Health Reform. Albuquerque, New Mexico, USA, International System Dynamics Conference.
 
 BTN Pte Ltd, 2016. ‎Peak Oil 101 on the App Store. [Online]<br/>
@@ -180,7 +180,7 @@ Available at: https://itunes.apple.com/sg/app/peak-oil-101/id1088199106
 Centers for Disease Control and Prevention, 2008. Get in the Game to Redirect the U.S. Health System. [Online]<br/>
 Available at: https://www2.cdc.gov/syndemics/game.htm
 
-## [Process Changes]
+## Process Changes
 >**Sprint 1** (Week 3 - Week 4)<br />
 - process changes in Sprint 1 (put content here later)<br />
 
