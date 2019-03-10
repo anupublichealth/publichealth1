@@ -107,6 +107,14 @@ Prepare presentation.
 
 **7. Deployment(2 weeks)**
 ## [Process Changes]
+>**Sprint 1** (Week 3 - Week 4)<br />
+- process changes in Sprint 1 (put content here later)<br />
+
+>**Sprint 2** (Week 5 - Week 6)<br />
+
+>**Sprint 3** (Week 7 - Week 8)<br />
+
+>**Sprint 4** (Week 9 - Week 10)<br />
 
 ## [Client's Vision]
 The client's vision is a fun multi-player mobile game about public health. The clients' objective for this game is to help players participate in and appreciate the health policy development. Players will act as an official who is responsible to public health. They will select, adapt and schedule policies and programs aiming to minimise the amount of disease and/or the inequitable distribution across the population. This game will simulate all the situations(like how health and economic outcomes change over time) due to different sequence of policy initiatives by the player. The clients also want the players to share their experiences with this game. All Above is our understanding of the client's vision. The client's vision is just a framework at this point. We will get into details by discussing with the clients next week.
