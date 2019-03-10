@@ -166,8 +166,8 @@ Besides, this project will help the real-world decision know the public preferen
 ## [Resources, Risks and Potential Costs]
 
 ## [NDA and IP Concerns]
-There will be no non-disclosure agreement required.<br/>
-Any materials, tools, methods/techniques and software provided by client
+A non-disclosure agreement is not necessary at this point in time.<br/>
+Any materials, tools, methods/techniques and services provided by client 
 and/or advised and agreed to be client Copyright, will remain the intellectual
 property of client.
 
