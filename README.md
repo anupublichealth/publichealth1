@@ -35,6 +35,9 @@ Overview of artifacts to be produced over the semester, organised by audits and 
 
 
 ## [Team Members](Documentation/)
+<div>
+<img src="/Images/TeamMembers.png" width="400" align="Center">
+</div>
 
 ## Tools and Services
 **Team communications:** Slack as main communication channel. Easily accessible by our team, stakeholders and our shadow team. Available at: https://anupublichealth1.slack.com 
