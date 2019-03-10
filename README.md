@@ -99,5 +99,17 @@ Besides, this project will help the real-world decision know the public preferen
 ## [Resources, Risks and Potential Costs]
 
 ## [NDA and IP Concerns]
+There will be no non-disclosure agreement required.<br/>
+Any materials, tools, methods/techniques and software provided by client
+and/or advised and agreed to be client Copyright, will remain the intellectual
+property of client.
 
-## [References](Documentation/)
+## [References]
+Bobby, M., Jack, H. & Gary, H., 2009. The “HealthBound” Policy Simulation Game: An Adventure in US Health Reform. Albuquerque, New Mexico, USA, International System Dynamics Conference.
+
+BTN Pte Ltd, 2016. ‎Peak Oil 101 on the App Store. [Online]<br/>
+Available at: https://itunes.apple.com/sg/app/peak-oil-101/id1088199106
+
+Centers for Disease Control and Prevention, 2008. Get in the Game to Redirect the U.S. Health System. [Online]<br/>
+Available at: https://www2.cdc.gov/syndemics/game.htm
+
