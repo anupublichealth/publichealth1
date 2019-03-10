@@ -64,26 +64,36 @@ The client's vision is a fun multi-player mobile game about public health. The c
 
 ## [Milestones]
 **Milestone 1: Proof-of-Concept Prototyping**<br/>
-Sprint 0 (Week 2 Kick-off)<br/>
+**Sprint 0 (Week 2 Kick-off)**<br/>
 Gather preliminary requirements and initialize project with proposed tools and services.<br/>
-Sprint 1 (Week 3 - Week 4)<br/>
+
+**Sprint 1 (Week 3 - Week 4)**<br/>
 Research into games of similar genre to propose a clear idea of the project's direction.<br/>
 Research into the project's design (art, sound, story, technical, storyboard, etc.).<br/>
+
+Begin:
 UX/UI prototyping.<br/>
 Game prototyping.<br/>
 Preparation for user testing.<br/>
-Sprint 2 (Week 5 - Week 6)<br/>
+
+**Sprint 2 (Week 5 - Week 6)**<br/>
 Review feedback and make changes to existing prototypes.<br/>
-Preparation for user testing (again).<br/>
-Sprint 3 (Teaching Break)<br/>
+
+Continued:
+UX/UI prototyping.<br/>
+Game prototyping.<br/>
+User testing (again).<br/>
+
+**Sprint 3 (Teaching Break)**<br/>
 Review feedback from second stage of testing, making appropriate changes.<br/>
 From prototyping to materialization of the proof-of-concept.<br/>
 
 **Milestone 2: QoL improvement and Deployment**<br/>
-Sprint 4 (Week 7 - Week 8)<br/>
+**Sprint 4 (Week 7 - Week 8)**<br/>
 Build connection between mobile and server<br/>
 Feature additions (backlog).<br/>
-Sprint 5 (Week 9 - Week 10)<br/>
+
+**Sprint 5 (Week 9 - Week 10)**<br/>
 Performance enhancements and stability improvements.<br/>
 Eventual deployment of service.<br/>
 Preparation for post-deployment testing.
