@@ -34,7 +34,7 @@ Overview of artifacts to be produced over the semester, organised by audits and 
 13. [Process Changes](#process-changes)
 
 
-## [Team Members](Images/)
+## Team Members
 <div align="center">
 <img src="/Images/TeamMembers.png" width="420" align="center"/>
 </div>
