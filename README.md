@@ -99,53 +99,57 @@ Eventual deployment of service.<br/>
 Preparation for post-deployment testing.
 
 ## [Project Schedule]
-**1. Understanding Requirements(1 week)**<br/>
+**1. Understanding Requirements(Sprint 1 - 5)**<br/>
 <ul>
-  <li>Communicate with the clients and read the project introduction page to get a general impression of the project</li>
-  <li>Discuss through group meeting</li>
-  <li>Ask questions that we are confused and get a clear understanding of requirements</li>
+  <li>Communicate with the clients and read the project introduction page to get a general impression of the project.</li>
+  <li>Discuss through group meeting.</li>
+  <li>Actively engage in conversations with stakeholders to get a clear understanding of requirements.</li>
+  <li>*: Time estimate is not specified as client requirements may change (and often will change) throughout the lifecycle of the project.</li>
 </ul>
 
-**2. Setup(3 days)**<br/>
+**2. Setup(Sprint 0)**<br/>
 <ul>
-  <li>Set up Github repository and add all the team members as colleborators</li>
-  <li>Set up communication tools such as slack and trello</li>
-  <li>Set up documentation share tools such as Google Drive</li>
-  <li>Determine the leaders and roles</li>
-  <li>Arrange meeting time</li>
+  <li>Set up Github repository and invite all relevant stakeholders.</li>
+  <li>Set up communication tools such as Slack and Trello.</li>
+  <li>Set up documentation share tools such as Google Drive.</li>
+  <li>Assign leadership roles and team divisions.</li>
+  <li>Arrange meeting time.</li>
 </ul>
 
-**3. Requirement Analysis(1 week)**<br/>
+**3. Requirement Analysis(Sprint 1, 2, 3)**<br/>
 <ul>
-  <li>Analyse the time and cost of clients's requirements</li>
-  <li>Determine what platform, programming languages and tools we should use</li>
+  <li>Analyse the time and cost of clients's requirements.</li>
+  <li>Determine what platform, programming languages and tools we should use.</li>
 </ul>
 
-**4. Design(2 weeks)**<br/>
+**4. Design(Sprint 2, 3, 4)**<br/>
 <ul>
-  <li>Do some research on health policies</li>
-  <li>Refer to games that are similar to our game</li>
-  <li>Design rules of the game and how to play</li>
-  <li>Design the overall framework of the game</li>
-  <li>Basic user interface(UI) design</li>
+  <li>Do some research on health policies.</li>
+  <li>Refer to games that are similar to our game.</li>
+  <li>Design rules of the game and how to play.</li>
+  <li>Design the overall framework of the game.</li>
+  <li>Basic user interface(UI) design.</li>
 </ul>
 
-**5. Coding(4 weeks)**<br/>
+**5. Coding(Sprint 2, 3, 4, 5)**<br/>
 <ul>
   <li>Build objects</li>
-  <li>Link the game data to the DSMs provided</li>
-  <li>Build database to record players' data</li>
-  <li>UI coding</li>
+  <li>Link the game data to the DSMs provided.</li>
+  <li>Build database to record players' data.</li>
+  <li>UI coding.</li>
 </ul>
 
-**6. Testing(2 weeks)**<br/>
+**6. Testing(Sprint 1, 2, 5)**<br/>
 <ul>
   <li>Unit testing</li>
   <li>Integration testing</li>
   <li>System testing</li>
 </ul>
 
-**7. Deployment(2 weeks)**
+**7. Deployment(Sprint 5)**
+<ul>
+  <li> TBD.</li>
+</ul>
 
 ## [Client and Stakeholder Expectations]
 The client expects to have a multi-player mobile game, in which players act as a Health Minister and make decision to increase the health level of the public. The game should help the public get familiar with multiple health policies and understand the complexity of this kind of decision making. Further, the public would have more confidences in some policies the governments are shy of trying as a result of playing the game. Also the game should not be like a boring teaching presentation, but interactive and interesting enough so that players are willing to share their experience to others. 
