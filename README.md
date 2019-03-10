@@ -108,7 +108,7 @@ The client's vision is a fun multi-player mobile game about public health. The c
   <li>Discuss through group meeting.</li>
   <li>Actively engage in conversations with stakeholders to get a clear understanding of requirements.</li>
 </ul>
-* Time estimate is not specified as client requirements may change (and often will change) throughout the lifecycle of the project.<br/>
+* Time estimate is not specified as client requirements may change (and often will change) throughout the lifecycle of the project.
 
 **2. Setup(Sprint 0)**<br/>
 <ul>
@@ -177,10 +177,10 @@ We have plans to investigate options for a suitable deployment platform for our 
 
 **Risk:** <br/>
 Game development requires careful management and an active feedback loop.
-Looking at recent failures of AAA video game studios, most notably F76^ and Ant^^, it is clear that even large corporations are prone to catastrophic failures, especially since they neglected testing their product prior to releasing to the public.
+Looking at recent failures of AAA video game studios, most notably * and Ant, it is clear that even large corporations are prone to catastrophic failures, especially since they neglected testing their product prior to releasing to the public.
 
-^ F76 was an unpolished, unrefined product release that relied on its customers to be Day 1 testers.
-^^ Ant was a game developed over 5 years that brought false promises and game-breaking bugs on release. Similar to F76, it was released at an unpolished state, leaving its users dissatisfied.
+<nowiki>*</nowiki>  was an unpolished, unrefined product release that relied on its customers to be Day 1 testers.
+Ant was a game developed over 5 years that brought false promises and game-breaking bugs on release. Similar to F76, it was released at an unpolished state, leaving its users dissatisfied.
 
 With that said, we should learn from developers who constantly engage with their users and the community. The active feedback loop helps tremendously especially in feature additions, QoL improvements and bug fixing. Their developers have a public Trello board at: https://trello.com/b/yxoJrFgP/subnautica-development. It can be said that their engagement with the community inspired us to do the same, though at a significantly smaller scale.
 
