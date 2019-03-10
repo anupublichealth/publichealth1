@@ -38,7 +38,22 @@ These are overviews of the artifacts we have produced, organised by sprint and a
 
 ## [Tools and Services]
 
-## [Milestones](Documentation/)
+## [Milestones]
+Milestone 1: Game Prototype<br/>
+Sprint 1 (Week 3 - Week 4)<br/>
+Look at example games, understand goal.<br/>
+Understand client's requirement.<br/> 
+Design suitable game UI.<br/>
+Sprint 2 (Week 5 - Week 6)<br/>
+Start development for basic game part.<br/><br/>
+Milestone 2: Game Improvement<br/>
+Sprint 3 (Week 7 - Week 8)<br/>
+Build connection between mobile and server<br/>
+Add additional functions like adviser.<br/>
+Sprint 4 (Week 9 - Week 10)<br/>
+Improve game performance.<br/>
+Set up final version of development.<br/>
+Prepare presentation.
 
 ## [Project Schedule](Documentation/)
 
@@ -58,7 +73,7 @@ National Centre for the Public Awareness of Science (CPAS. https://cpas.anu.edu.
 
 ![](Images/image2.png)
 
-Project Team:
+Project Team:<br/>
 19-S1-2-C Public Health 1 of TechLauncher
 
 ![](Images/image3.png)
