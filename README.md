@@ -1,9 +1,9 @@
-# Public Health Game
-Add description here.
+# Health Minister for a Day
+A Multi-Player Mobile Game for Reducing Preventable Chronic Disease.
 
-#### [Semester 1 Project Progress](Documentation/Semester_1/overview.md)
+#### [Project Progress](Documentation/Semester_1/overview.md)
 
-These are overviews of the artifacts we have produced, organised by sprint and audit. They contain quick access to our outputs, documentation, and meeting notes. 
+Overview of artifacts to be produced over the semester, organised by audits and sprints. They contain easy access to our outputs, documentation, and meeting notes. 
 
 ## Table of Contents
 
