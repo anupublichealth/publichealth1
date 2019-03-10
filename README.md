@@ -48,6 +48,14 @@ These are overviews of the artifacts we have produced, organised by sprint and a
 The client's vision is a fun multi-player mobile game about public health. The clients' objective for this game is to help players participate in and appreciate the health policy development. Players will act as an official who is responsible to public health. They will select, adapt and schedule policies and programs aiming to minimise the amount of disease and/or the inequitable distribution across the population. This game will simulate all the situations(like how health and economic outcomes change over time) due to different sequence of policy initiatives by the player. The clients also want the players to share their experiences with this game. All Above is our understanding of the client's vision. The client's vision is just a framework at this point. We will get into details by discussing with the clients next week.
 
 ## [Key Stakeholders]
+Project Clients:
+The Australian Prevention Partnership Centre (TAPPC, https://preventioncentre.org.au): 
+
+National Centre for the Public Awareness of Science (CPAS. https://cpas.anu.edu.au):
+
+Project Team:
+19-S1-2-C Public Health 1 of TechLauncher
+
 
 ## [Client and Stakeholder Expectations]
 The client expects to have a multi-player mobile game, in which players act as a Health Minister and make decision to increase the health level of the public. The game should help the public get familiar with multiple health policies and understand the complexity of this kind of decision making. Further, the public would have more confidences in some policies the governments are shy of trying as a result of playing the game. Also the game should not be like a boring teaching presentation, but interactive and interesting enough so that players are willing to share their experience to others. 
