@@ -66,43 +66,27 @@ Project Team:<br/>
 The client's vision is a fun multi-player mobile game about public health. The clients' objective for this game is to help players participate in and appreciate the health policy development. Players will act as an official who is responsible to public health. They will select, adapt and schedule policies and programs aiming to minimise the amount of disease and/or the inequitable distribution across the population. This game will simulate all the situations(like how health and economic outcomes change over time) due to different sequence of policy initiatives by the player. The clients also want the players to share their experiences with this game. All Above is our understanding of the client's vision. The client's vision is just a framework at this point. We will get into details by discussing with the clients next week.
 
 ## Milestones
-**Milestone 1: Proof-of-Concept Prototyping**<br/>
->**Sprint 0 (Week 2 Kick-off)**<br/>
-- Gather preliminary requirements and initialize project with proposed tools and services.<br/>
 
->**Sprint 1 (Week 3 - Week 4)**<br/>
-- Research into games of similar genre to propose a clear idea of the project's direction.<br/>
-- Research into the project's design (art, sound, story, technical, storyboard, etc.).<br/>
+**Semester 1**
+<ul>
+  <li> MVP </li>
+  <li> Deployment (By end of semester) </li>
+  <li> Online Multiplayer </li>
+  <li> Continuous Testing </li>
+</ul>
 
-  Begin:<br/>
-  - UX/UI prototyping.<br/>
-  - Game prototyping.<br/>
-  - Preparation for user testing.<br/>
-
->**Sprint 2 (Week 5 - Week 6)**<br/>
-- Review feedback and make changes to existing prototypes.<br/>
-
-  Continued:<br/>
-  - UX/UI prototyping.<br/>
-  - Game prototyping.<br/>
-  - User testing (again).<br/>
-
->**Sprint 3 (Teaching Break)**<br/>
-- Review feedback from second stage of testing, making appropriate changes.<br/>
-- From prototyping to materialization of the proof-of-concept.<br/>
-
-**Milestone 2: QoL improvement and Deployment**<br/>
->**Sprint 4 (Week 7 - Week 8)**<br/>
-- Build connection between mobile and server<br/>
-- Feature additions (backlog).<br/>
-
->**Sprint 5 (Week 9 - Week 10)**<br/>
-- Performance enhancements and stability improvements.<br/>
-- Eventual deployment of service.<br/>
-- Preparation for post-deployment testing.<br/>
+**Semester 2 (Planned)**
+<ul>
+  <li> Maintenance and Support </li>
+  <li> Bugfixing </li>
+  <li> Feature additions (feedback -> backlog) </li>
+</ul>
 
 ## Project Schedule
-**1. Understanding Requirements(Sprint 1 - 5)**<br/>
+
+**Sprint 1**
+
+**a. Understanding Requirements**<br/>
 <ul>
   <li>Communicate with the clients and read the project introduction page to get a general impression of the project.</li>
   <li>Discuss through group meeting.</li>
@@ -110,31 +94,36 @@ The client's vision is a fun multi-player mobile game about public health. The c
 </ul>
 * Time estimate is not specified as client requirements may change (and often will change) throughout the lifecycle of the project.
 
-**2. Setup(Sprint 0)**<br/>
+**b. Setup**<br/>
 <ul>
   <li>Set up Github repository and invite all relevant stakeholders.</li>
   <li>Set up communication tools such as Slack and Trello.</li>
-  <li>Set up documentation share tools such as Google Drive.</li>
+  <li>Set up documentation sharing tools such as Google Drive.</li>
   <li>Assign leadership roles and team divisions.</li>
-  <li>Arrange meeting time.</li>
+  <li>Arrange meeting times with client and team.</li>
 </ul>
 
-**3. Requirement Analysis(Sprint 1, 2, 3)**<br/>
+**c. Requirement Analysis**<br/>
 <ul>
   <li>Analyse the time and cost of clients's requirements.</li>
   <li>Determine what platform, programming languages and tools we should use.</li>
+  <li>Making appropriate research into the scope.</li>
 </ul>
 
-**4. Design(Sprint 2, 3, 4)**<br/>
+**Sprint 2**
+
+**a. Design and Prototyping**<br/>
 <ul>
   <li>Do some research on health policies.</li>
   <li>Refer to games that are similar to our game.</li>
   <li>Design rules of the game and how to play.</li>
   <li>Design the overall framework of the game.</li>
-  <li>Basic user interface(UI) design.</li>
+  <li>Basic prototypes of core of game and UI/UX.</li>
+  <li>Fail-fast prototyping, e.g. paper (illustrative/throwaway prototyping) to gather meaningful 
+    opinions about the game and interaction with the users.</li>
 </ul>
 
-**5. Coding(Sprint 2, 3, 4, 5)**<br/>
+**b. Coding**<br/>
 <ul>
   <li>Build objects</li>
   <li>Link the game data to the DSMs provided.</li>
@@ -142,16 +131,17 @@ The client's vision is a fun multi-player mobile game about public health. The c
   <li>UI coding.</li>
 </ul>
 
-**6. Testing(Sprint 1, 2, 5)**<br/>
+**c. Testing (Multiple)**<br/>
 <ul>
-  <li>Unit testing</li>
-  <li>Integration testing</li>
-  <li>System testing</li>
+  <li>Unit testing.</li>
+  <li>Integration testing.</li>
+  <li>System testing.</li>
+  <li>User testing.</li>
 </ul>
 
-**7. Deployment(Sprint 5)**
+**d. Deployment**
 <ul>
-  <li> TBD.</li>
+  <li>Deployment of MVP by the end of Semester 1.</li>
 </ul>
 
 ## Client and Stakeholder Expectations
