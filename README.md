@@ -84,7 +84,7 @@ The client's vision is a fun multi-player mobile game about public health. The c
 
 ## Project Schedule
 
-**Sprint 1**
+**Sprint 1, Sprint 2**
 
 **a. Understanding Requirements**<br/>
 <ul>
@@ -110,7 +110,7 @@ The client's vision is a fun multi-player mobile game about public health. The c
   <li>Making appropriate research into the scope.</li>
 </ul>
 
-**Sprint 2**
+**Sprint 3, 4, 5**
 
 **a. Design and Prototyping**<br/>
 <ul>
