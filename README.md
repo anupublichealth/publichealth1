@@ -189,3 +189,6 @@ Available at: https://itunes.apple.com/sg/app/peak-oil-101/id1088199106
 
 Centers for Disease Control and Prevention, 2008. Get in the Game to Redirect the U.S. Health System. [Online]<br/>
 Available at: https://www2.cdc.gov/syndemics/game.htm
+
+How to Write a Statement of Work for Any Industry. [Online]<br/>
+Available at: https://www.smartsheet.com/how-write-statement-work-any-industry
