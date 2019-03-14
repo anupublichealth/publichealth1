@@ -40,7 +40,7 @@ Overview of artifacts to be produced over the semester, organised by audits and 
 </div>
 
 ## Tools and Services
-**Team communications:** Slack as main communication channel. Easily accessible by our team, stakeholders and our shadow team. Available at: https://anupublichealth1.slack.com 
+**Team communications:** Slack as main communication channel. Easily accessible by our team, stakeholders and our shadow team. Available at: https://hmfad.slack.com 
 
 **Task management:** Trello "Tasks" board is visibile to everyone. Available at: https://trello.com/b/sq2c54ek/tasks
 
